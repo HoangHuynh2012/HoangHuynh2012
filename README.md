@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### Linh Facebook: https://www.facebook.com/hoanghuynh2012/
+### Gmail: hoanghuynh5555@gmail.com
 <!--
 **HoangHuynh2012/HoangHuynh2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
