@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Huynh.I'm a javascript programmer 👨🏻‍💻
-Want to help people and always have a smile on your face 👉 👈
+I want to help people and always have a smile on your face 👉 👈
 ### Linh Facebook: https://www.facebook.com/hoanghuynh2012/ 😶
 ### Gmail: hoanghuynh5555@gmail.com 😶
 
