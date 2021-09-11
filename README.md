@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Huynh.I'm a javascript programmer 👨🏻‍💻
+### My name is Huynh 👨🏻‍💻
 ### I want to help people and always have a smile on your face 👉 👈
 
 <!--
