@@ -1,6 +1,5 @@
 ### Hi there 👋
-### My name is Huynh 👨🏻‍💻
-### I want to help people and always have a smile on your face 👉 👈
+### My name is Huynh 👨🏻‍💻 👉 👈
 
 <!--
 **HoangHuynh2012/HoangHuynh2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
