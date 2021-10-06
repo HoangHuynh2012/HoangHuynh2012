@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### My name is Huynh 👨🏻‍💻 👉 👈
-### My CV: https://drive.google.com/file/d/1KX9OXBDNtvvKJf_Cwbqs-69ZV0oJEbDP/view?usp=sharing
+### My CV:
+    - VN: https://j2c.cc/CV_HoangVanHuynh_VN
+    - EN: https://j2c.cc/CV_HoangVanHuynh_EN
 
 <!--
 **HoangHuynh2012/HoangHuynh2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
