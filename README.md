@@ -2,9 +2,10 @@
 ### My name is Huynh 👨🏻‍💻 👉 👈
 ### My CV:
 - VN: https://j2c.cc/CV_HoangVanHuynh_VN
-- EN: https://j2c.cc/CV_HoangVanHuynh_EN
+
 
 <!--
+- EN: https://j2c.cc/CV_HoangVanHuynh_EN
 **HoangHuynh2012/HoangHuynh2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
